@@ -1,4 +1,4 @@
-# arinc-test-files
+# ARINC-827-2
 For storage of large ARINC test files
 
 The below links to AWS S3 will download the files
